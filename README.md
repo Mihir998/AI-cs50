@@ -4,7 +4,6 @@ Mine solutions for CS50's Introduction to Artificial Intelligence with Python co
 *Warning : before visiting this repo files, please read about [CS50's Academic Honesty rules](https://cs50.harvard.edu/college/2021/fall/syllabus/#academic-honesty)*.
 
 ## Includes:
-* Quizzes answers
 * Projects solutions
 
 ## Course info:
